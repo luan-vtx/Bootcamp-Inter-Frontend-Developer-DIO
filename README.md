@@ -1,5 +1,9 @@
-# Desafio sobre Git-GitHub da DIO
-  Repositório criado para o desafio do projeto.
+# Repositório dos cursos realizados durante o Bootcamp Inter Front-end Developer da DIO 🔥
 
-## Links úteis: 
-[Sintaxe básica de Markdown](https://www.markdownguide.org/basic-syntax/).
+### Os cursos já realizados são:
+
+ - O que são estruturas de dados;
+ - Projetos ágeis com SCRUM;
+ - Introdução ao Git e ao GitHub;
+ - Introdução ao Bootstrap;
+ - Introdução ao JavaScript.
